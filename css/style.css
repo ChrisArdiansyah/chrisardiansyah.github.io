@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: lightblue;
+}
+
+main {
+    max-width: 400px;
+    display: inline-block;
+}
+
+section {
+    border: 3px dotted black;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
