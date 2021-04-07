@@ -4,7 +4,7 @@ body {
     background-color: lightblue;
 }
 
-article {
+main {
     max-width: 400px;
     display: inline-block;
 }
